@@ -1,0 +1,21 @@
+/* .card{
+    width: 30%;
+    height: auto;
+    border: 1px solid grey;
+    /* border-radius:20px; */
+    /* background-color: rgb(255, 248, 248); */
+/* } */
+/* 
+.card img{
+    object-fit: cover;
+    width: auto;
+    height:auto;
+} */ 
+
+.card{
+    box-shadow: 0 5px 5px 5px rgb(73, 65, 65);
+}
+
+.mui:hover > .MuiSvgIcon-root{
+    color: blue;
+}

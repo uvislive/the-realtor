@@ -1,0 +1,21 @@
+
+
+.search{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    width: 100%;
+    height: 5rem;
+    /* flex-direction: column; */
+}
+
+.searchbar{
+    margin-top: 30px;
+}
+
+
+.controller{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(350,1fr));
+
+}

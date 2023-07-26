@@ -1,0 +1,15 @@
+
+
+
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.login{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
